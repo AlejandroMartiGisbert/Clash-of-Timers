@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "assets/images/hourglass2.pn",
+      "src": "assets/images/hourglass2.png",
       "sizes": "192x192",
       "type": "image/png"
     },
