@@ -3344,9 +3344,9 @@ input, select, textarea {
 .delete-btn {
     z-index: 2;
 }
-.timebutton
+.create
 {
-	width: 90%;
+	margin: 0 0 2em 0;
 }
 .delete-btn {
     z-index: 20;

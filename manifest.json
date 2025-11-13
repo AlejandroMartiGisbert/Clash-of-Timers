@@ -1,7 +1,8 @@
 {
-  "name": "Temporizador App",
-  "short_name": "Temporizador",
-  "start_url": "./index.html",
+  "name": "Clash of Timers",
+  "short_name": "Timers",
+  "start_url": "/Clash-of-Timers/index.html",
+  "scope": "/Clash-of-Timers/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#585858",

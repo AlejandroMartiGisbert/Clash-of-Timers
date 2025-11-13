@@ -1,10 +1,10 @@
-const CACHE_NAME = "temporizador-cache-v1";
+const CACHE_NAME = "clash-of-timers-v1";
 const urlsToCache = [
-  "./",
-  "./index.html",
-  "./style.css",
-  "./app.js",
-  "./manifest.json"
+  "/Clash-of-Timers/",
+  "/Clash-of-Timers/index.html",
+  "/Clash-of-Timers/style.css",
+  "/Clash-of-Timers/app.js",
+  "/Clash-of-Timers/manifest.json"
 ];
 
 // Instalar Service Worker y cachear archivos
