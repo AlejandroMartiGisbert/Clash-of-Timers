@@ -66,7 +66,7 @@ function createTimer(timerData) {
       if (remaining <= 0) {
         clearInterval(article.dataset.intervalId);
         h2.textContent = "¡Finalizado!";
-        content.style.opacity = 0;
+        //content.style.opacity = 0;
         notify(`El temporizador "${timerData.name}" ha terminado 🎉`);
         timerData.finished = true;
         saveTimer(timerData);
