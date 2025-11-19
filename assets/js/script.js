@@ -39,7 +39,7 @@ function createTimer(timerData) {
     </span>
     <div class="timer-body">
       <h2></h2>
-      <div class="content" style="opacity:0;">
+      <div class="content">
         <p>${timerData.name || "Sin nombre"}</p>
         <button class="button primary timebutton modify">Modificar</button>
       </div>
