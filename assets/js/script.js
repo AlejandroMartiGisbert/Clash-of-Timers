@@ -55,7 +55,7 @@ function createTimer(timerData) {
   const remaining = timerData.endTime - Date.now();
   if (remaining <= 0 || timerData.finished) {
     h2.textContent = "¡Finalizado!";
-    content.style.opacity = 0;
+    //content.style.opacity = 0;
     article.className = "style1";
     timerData.finished = true;
     saveTimer(timerData);
